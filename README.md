@@ -1,16 +1,12 @@
 ### Hi there 👋
+I'm a JavaScript and Web architect from Lahore, Pakistan.
 
-<!--
-**ahsan-javaid/ahsan-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Lead software engineer - Tintash (November, 2019 - Present)
+- 💻 Senior software engineer - OneByte (Nov, 2016 - Oct, 2019)
+- 💻 Software engineer - Novatore Sols (Aug, 2015 - Nov, 2016)
+- 🔭 I’m currently working on Node.js/Nest.Js/ tech stack for an blockchain based wallet application
+- 🌱 Backend experience: Node.js, Nest.js, Typescript Express.js, Serverless, lambdas 
+- 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB
+- 🤔 Frontend experience: React.js, Redux, Angular
+- 📫 How to reach me: meister.ahsan.javaid@gmail.com
+- 💬 [Online Resume](https://ahsan-javaid.github.io/)

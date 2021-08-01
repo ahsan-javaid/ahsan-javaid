@@ -1,5 +1,9 @@
-### Hi there 👋
-I'm a JavaScript and Web architect from Lahore, Pakistan.
+### Hi there 👋 I'm Ahsan Javaid!
+
+I'm **JavaScript and Web** ***Architect*** 🚀 from Lahore, Pakistan
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About Me!**
 
 - 💻 Lead software engineer - Tintash (November, 2019 - Present)
 - 💻 Senior software engineer - OneByte (Nov, 2016 - Oct, 2019)
@@ -10,3 +14,20 @@ I'm a JavaScript and Web architect from Lahore, Pakistan.
 - 🤔 Frontend experience: React.js, Redux, Angular
 - 📫 How to reach me: meister.ahsan.javaid@gmail.com
 - 💬 [Online Resume](https://ahsan-javaid.github.io/)
+- <a href="https://www.linkedin.com/in/ahsan-javaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /> Linkedin</a>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Languages and Tools:**  🛠️
+✔ TypeScript
+✔ Node.js
+✔ Deno
+✔ Golang
+✔ React.js
+✔ Angular
+✔ AWS 
+✔ Serverless
+✔ Serverless Framework 
+✔ DynamoDB
+✔ Nest.js
+✔ Postgres
+✔ MongoDB

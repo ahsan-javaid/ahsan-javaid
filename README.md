@@ -18,16 +18,16 @@ I'm **JavaScript and Web** ***Architect*** 🚀 from Lahore, Pakistan
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Languages and Tools:**  🛠️
-✔ TypeScript
-✔ Node.js
-✔ Deno
-✔ Golang
-✔ React.js
-✔ Angular
-✔ AWS 
-✔ Serverless
-✔ Serverless Framework 
-✔ DynamoDB
-✔ Nest.js
-✔ Postgres
-✔ MongoDB
+
+ ✔ TypeScript, Golang, Node JS, Nest JS, 12 Factor Apps
+ 
+ ✔ AWS (Cognito, Serverless, DynamoDB, Ec2, S3, Cloudfront, RDS)
+ 
+ ✔ Blockchain, web wallets, stacks-blockchain, ethereum, solidity, hardhat
+ 
+ ✔ Postgres, MongoDB, 
+
+ ✔ GraphQL, React, Apollo GraphQL
+
+ ✔ Test Driven development, CI/CD & Docker
+ 

@@ -9,7 +9,7 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 - 💻 Senior software engineer - OneByte (Nov, 2016 - Oct, 2019)
 - 💻 Software engineer - Novatore Sols (Aug, 2015 - Nov, 2016)
 - 🔭 Blockchain experience: stacks-blockchain, ethereum, solidity, hardhat
-- 🌱 Backend experience: TypeScript, Node JS, Golang, AWS Serverless, GraphQL
+- 🌱 Backend experience: TypeScript, Node JS, Golang, Rust, AWS Serverless, GraphQL
 - 💰 Crypto experience: noble-secp256k1 & elliptic-curve 
 - 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS
 - 🤔 Frontend experience: React JS, Redux, Angular
@@ -21,7 +21,7 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Languages and Tools:**  🛠️
 
- ✔ TypeScript, Golang, Node JS, Nest JS, 12 Factor Apps
+ ✔ TypeScript, Golang, Rust, Node JS, Nest JS, 12 Factor Apps
   
  ✔ Blockchain, web wallets, stacks-blockchain, ethereum, solidity, hardhat
  

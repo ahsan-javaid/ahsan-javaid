@@ -5,16 +5,16 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About Me!**
 
-- 💻 Lead software engineer - Tintash (November, 2019 - Present)
-- 💻 Senior software engineer - OneByte (Nov, 2016 - Oct, 2019)
+- 💻 Lead software engineer - Tintash [Stacks Contributor] (November, 2019 - Present)
+- 💻 Senior software engineer - OneByte [Eonhealth.com Contributor] (Nov, 2016 - Oct, 2019)
 - 💻 Software engineer - Novatore Sols (Aug, 2015 - Nov, 2016)
-- 🔭 Blockchain experience: stacks-blockchain, ethereum, solidity, hardhat
+- 🔭 Blockchain experience: stacks-blockchain, ethereum, golang, solidity, hardhat, ethers.js, ens, web3.js
 - 🌱 Backend experience: TypeScript, Node JS, Golang, Rust, AWS Serverless, GraphQL
-- 💰 Crypto experience: noble-secp256k1 & elliptic-curve 
+- 💰 Cryptography experience: noble-secp256k1 & elliptic-curve 
 - 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS
 - 🤔 Frontend experience: React JS, Redux, Angular
 - 🔨 TDD, Jest, CI/CD, Docker, 12 factor apps
-- 📫 How to reach me: mister.ahsan.javaid@gmail.com
+- 📫 How to reach me: meister.ahsan.javaid@gmail.com
 - 💬 [Online Resume](https://ahsan-javaid.github.io/)
 - <a href="https://www.linkedin.com/in/ahsan-javaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /> Linkedin</a>
 
@@ -23,7 +23,7 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 
  ✔ TypeScript, Golang, Rust, Node JS, Nest JS, 12 Factor Apps
   
- ✔ Blockchain, web wallets, stacks-blockchain, ethereum, solidity, hardhat
+ ✔ Blockchain, web & mobile wallets, stacks-blockchain, ethereum, solidity, hardhat
  
  ✔ Crypto, noble-secp256k1 & elliptic-curve 
  

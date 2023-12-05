@@ -23,7 +23,11 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Languages and Tools:**  🛠️
 
- ✔ TypeScript, Golang, Rust, Node JS, Nest JS, 12 Factor Apps
+ ✔ TypeScript, Golang, Node JS, Nest JS, 12 Factor Apps
+ 
+ ✔ Rust, Tokio, Axum, Tauri, Substrate
+
+ ✔ Distributed systems, ZeroMq, RabbitMq, Kafka, Zookeeper
   
  ✔ Blockchain, web & mobile wallets, stacks-blockchain, ethereum, solidity, hardhat
  

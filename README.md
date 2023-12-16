@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahsan Javaid!
 
-I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
+I'm **Web, Web3 & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About Me!**
@@ -13,7 +13,7 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 - 🌱 Backend experience: TypeScript, Node JS, Golang, Rust, AWS Serverless, GraphQL
 - 💰 Cryptography experience: noble-secp256k1 & elliptic-curve 
 - 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS
-- 🤔 Frontend experience: React JS, Redux, Angular
+- 🤔 Frontend experience: React JS, Next JS, Redux, Angular
 - 🔨 TDD, Jest, CI/CD, Docker, 12 factor apps
 - 📫 How to reach me: meister.ahsan.javaid@gmail.com
 - 👋 [Meet ME](https://calendly.com/ahsan-javaid)
@@ -27,7 +27,7 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
  
  ✔ Rust, Tokio, Axum, Tauri, Substrate
 
- ✔ Distributed systems, ZeroMq, RabbitMq, Kafka, Zookeeper
+ ✔ Distributed systems, ZeroMq, RabbitMq, Kafka, Zookeeper, Redis
   
  ✔ Blockchain, web & mobile wallets, stacks-blockchain, ethereum, solidity, hardhat
  
@@ -35,7 +35,7 @@ I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
  
  ✔ AWS (Cognito, Serverless, DynamoDB, Ec2, S3, Cloudfront, RDS)
  
- ✔ Postgres, MongoDB, 
+ ✔ Postgres, MongoDB, Elasticsearch, neo4j, time-series databases, internet of things (IOT)
 
  ✔ GraphQL, React, Apollo GraphQL
 

@@ -8,11 +8,12 @@ I'm **Web, Web3 & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 - 💻 Lead software engineer - Tintash [Stacks Contributor] (November, 2019 - Present)
 - 💻 Senior software engineer - OneByte [Eonhealth.com Contributor] (Nov, 2016 - Oct, 2019)
 - 💻 Software engineer - Novatore Sols (Aug, 2015 - Nov, 2016)
-- 🔭 Blockchain experience: stacks-blockchain, ethereum, golang, solidity, hardhat, ethers.js, ens, web3.js
-- ⛓ Custome Blockchain: Substrate, Polkadot, Kusama, Cosmos, ink!, Solana
+- 🔭 Blockchain experience: stacks-blockchain, ethereum, golang, solidity, hardhat, ethers.js, ens, web3.js, ipfs, decentralized identity (DID)
+- 🔐 Blockchain scalability: Zero-Knowledge Proof (ZKP), Rollup Solutions, Multi-Party Computation, cryptography, libp2p
+- ⛓ Custom Blockchain: Substrate, Polkadot, Kusama, Cosmos, ink!, Solana, Consensus protocols
 - 🌱 Backend experience: TypeScript, Node JS, Golang, Rust, AWS Serverless, GraphQL
 - 💰 Cryptography experience: noble-secp256k1 & elliptic-curve 
-- 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS
+- 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS, RocksDB
 - 🤔 Frontend experience: React JS, Next JS, Redux, Angular
 - 🔨 TDD, Jest, CI/CD, Docker, 12 factor apps
 - 📫 How to reach me: meister.ahsan.javaid@gmail.com
@@ -27,15 +28,15 @@ I'm **Web, Web3 & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
  
  ✔ Rust, Tokio, Axum, Tauri, Substrate
 
- ✔ Distributed systems, ZeroMq, RabbitMq, Kafka, Zookeeper, Redis
+ ✔ Distributed systems, ZeroMq, RabbitMq, Kafka, Zookeeper, Redis, Consensus protocols
   
- ✔ Blockchain, web & mobile wallets, stacks-blockchain, ethereum, solidity, hardhat
+ ✔ Blockchain, web & mobile wallets, stacks-blockchain, ethereum, solidity, hardhat, libp2p, ethers, decentralized identity (DID) 
  
- ✔ Crypto, noble-secp256k1 & elliptic-curve 
+ ✔ Crypto, noble-secp256k1 & elliptic-curve, Zero-Knowledge Proof (ZKP), Rollup Solutions, Multi-Party Computation
  
  ✔ AWS (Cognito, Serverless, DynamoDB, Ec2, S3, Cloudfront, RDS)
  
- ✔ Postgres, MongoDB, Elasticsearch, neo4j, time-series databases, internet of things (IOT)
+ ✔ Postgres, MongoDB, Elasticsearch, neo4j, time-series databases, internet of things (IOT), RocksDB
 
  ✔ GraphQL, React, Apollo GraphQL
 

@@ -16,7 +16,7 @@ I'm **Web, Web3 & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
 - 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS, RocksDB
 - 🤔 Frontend experience: React JS, Next JS, Redux, Angular
 - 🔨 TDD, Jest, CI/CD, Docker, 12 factor apps
-- 📫 How to reach me: meister.ahsan.javaid@gmail.com
+- 📫 How to reach me: ahsan786cs@gmail.com
 - 👋 [Meet ME](https://calendly.com/ahsan-javaid)
 - 💬 [Online Resume](https://ahsan-javaid.github.io/)
 - <a href="https://www.linkedin.com/in/ahsan-javaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /> Linkedin</a>
